@@ -1,1 +1,2 @@
 # Placement_system_portal
+Developed a full-featured placement portal to streamline college placement processes, offering dashboards for students, recruiters, and administrators. Integrated dynamic charts, real-time form validation, and role-based content access using Bootstrap, Chart.js, and modular JavaScript. Enhanced user experience including notification systems and a built-in rich text editor.
